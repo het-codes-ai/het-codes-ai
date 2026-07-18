@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Het Modi 👋 (@het-codes-ai)
 
-<!--
-**het-codes-ai/het-codes-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Incoming Computer Science & Engineering Student at MSU Baroda (FTE)
 
-Here are some ideas to get you started:
+I am a highly focused CSE undergraduate building a relentless daily discipline in Data Structures, Algorithms, and Core Software Engineering principles. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tooling
+- **Languages:** Java, Python, HTML5
+- **Focus Sectors:** Algorithmic Problem Solving (DSA), Artificial Intelligence, Web Development
+- **Environments:** Mobile IDE Eco-systems (Jvdroid, Acode, Pydroid 3)
+
+---
+
+### ⚡ Operational Metrics & Current Goals
+- 🚀 Actively solving algorithmic patterns daily on LeetCode.
+- 🎯 Aiming to maintain an elite 9+ CGPA baseline across my engineering tenure.
+- 🛠️ Currently mastering core recursion and backtracking systems.
+
+*“Clean data, relentless execution, zero excuses.”*
+
+
+
